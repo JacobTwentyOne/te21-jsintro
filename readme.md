@@ -1,7 +1,8 @@
-ctrl+n = new file
+# Jsintro
 
-Skriv
-
-Ctrl+s = save
-
-readme.md = readme
+* variabler
+* datatyper
+* Operatörer
+* selektion
+* iteration (upprepning)
+* funktioner 
